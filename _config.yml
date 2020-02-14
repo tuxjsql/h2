@@ -6,5 +6,5 @@ baseurl: "/h2/"
 aux_links:
   "TuxJSQL Home":
     - "https://tuxjsql.dev"
-  "TuxJSQL SQLITE GitHub":
+  "TuxJSQL h2 GitHub":
     - "//github.com/tuxjsql/h2"
